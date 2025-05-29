@@ -2,7 +2,7 @@
 Meine Prompts, die ich für Coden etc. verwenden mag
 
 
-***Anleitung***
+***Anleitung-Generierung***
 
 Erstelle mir eine sehr einfach zu folgende Schritt für Schritt Anleitung.
 Es soll selbst mit sehr schwacher Konzentration und völliger Übermüdung noch leicht zu folgen sein.
