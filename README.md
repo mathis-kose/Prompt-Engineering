@@ -22,4 +22,5 @@ wo ich eher weniger aus der Informatik und die fachgerechte Erzeugung von Code k
 - sind alle Informationen schnell aufzunehmen, sodass man schnell weiterkommt?
 Die Frage ist hier, wie kann das Lesen oder Verstehen der Anleitung so wenig Zeit wie möglich in Anspruch nehmen? 
 - Sind alle Punkte der Checklist berücksichtigt worden?
+
 ***]***
