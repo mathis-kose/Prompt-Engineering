@@ -4,6 +4,8 @@ Meine Prompts, die ich für Coden etc. verwenden mag
 
 ***Anleitung-Generierung***
 
+***[***
+
 Erstelle mir eine sehr einfach zu folgende Schritt für Schritt Anleitung.
 Es soll selbst mit sehr schwacher Konzentration und völliger Übermüdung noch leicht zu folgen sein.
 Es soll nur der nötigste Text mit dem relevantesten Inforationen abgebildet werden.
@@ -20,3 +22,4 @@ wo ich eher weniger aus der Informatik und die fachgerechte Erzeugung von Code k
 - sind alle Informationen schnell aufzunehmen, sodass man schnell weiterkommt?
 Die Frage ist hier, wie kann das Lesen oder Verstehen der Anleitung so wenig Zeit wie möglich in Anspruch nehmen? 
 - Sind alle Punkte der Checklist berücksichtigt worden?
+***]***
