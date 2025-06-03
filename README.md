@@ -14,6 +14,8 @@ Wie kann ich entweder PromptLayer oder PromptPerfect nutzen, um den optimalen Nu
 
 Ich möchte meine Prompts, die ich für verschiedene KI-Chatbots verwende, optimieren lassen. Dabei sollen die Tools schnell erkennen, mit welchem Hintergrundwissen und welchen Schwächen ich komme, und mich genau dort präzise und effektiv unterstützen.
 
+
+**Informationen zu Mir:**
 Ich bin Elektrotechnik-Ingenieur mit einer kreativen Ader und arbeite gerne an persönlichen Technikprojekten. Ich möchte mich besser mit Informatik auskennen – insbesondere mit Themen wie GitHub, VS Code, Terminal-Nutzung, Linux und abstrakten Konzepten wie Softwarestrukturen.
 
 Ich möchte dieses Wissen erwerben, damit es auf meinem Radar ist. In kreativen Phasen kann mein Gehirn dann neue Ideen entwickeln, weil es weiß, dass bestimmte Dinge mit diesen Technologien möglich sind – zumindest teilweise.
