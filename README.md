@@ -10,9 +10,6 @@ Gehe nach der Erstellung die unten aufgeführte Checkliste durch und überprüfe
 
 **Thema der Anleitung:**
 
-Wie kann ich entweder PromptLayer oder PromptPerfect nutzen, um den optimalen Nutzen für mich daraus zu ziehen?
-
-Ich möchte meine Prompts, die ich für verschiedene KI-Chatbots verwende, optimieren lassen. Dabei sollen die Tools schnell erkennen, mit welchem Hintergrundwissen und welchen Schwächen ich komme, und mich genau dort präzise und effektiv unterstützen.
 
 
 **Informationen zu Mir:**
@@ -22,6 +19,9 @@ Ich möchte dieses Wissen erwerben, damit es auf meinem Radar ist. In kreativen 
 
 
 **Checkliste für die finale Überarbeitung:**
+
+- Wurden die "Informationen zu Mir" in der Anleitung berücksichtigt?  
+  → Falls nein, überarbeite die Informationsaufbereitung nochmal neu mit diesem Hintergrundwissen und unter diesem Aspekt.
 
 - Sind die Übergänge zwischen den Anleitungsschritten nachvollziehbar?  
   → Falls nein, füge kleine Übergangskommentare oder Hinweise ein, z. B. *„Gehe zurück zum XY-Fenster“*.
