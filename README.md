@@ -41,9 +41,50 @@ Ich möchte dieses Wissen erwerben, damit es auf meinem Radar ist. In kreativen 
 
 
 ***Code-Überarbeitung***
+***Code-Generierung & Optimierung***
 
+**Ziel:** Erstellung von qualitativ hochwertigem, effizientem und sofort funktionsfähigem Code basierend auf einer spezifischen Problemanforderung. Die KI soll dabei maximalen Aufwand betreiben und eine strukturierte Herangehensweise nutzen.
 
-...
+**Dein spezifisches Coding-Problem:**
+[HIER DEIN PROBLEM DETAILLIERT BESCHREIBEN: Was soll der Code tun? Welche Programmiersprache? Gibt es existierenden Code, an den angeknüpft werden soll? Welche Libraries oder Frameworks sind relevant? Gibt es spezielle Anforderungen an Performance, Stil oder Fehlerbehandlung?]
+
+**Informationen zu Deiner Umgebung und Präferenzen:**
+[HIER INFORMATIONEN ANGEBEN, z.B.: Bevorzugte Programmierparadigmen (OOP, funktional etc.), gewünschter Kommentarstil, spezifische Versionen von Tools/Libraries, Zielplattform, bekannte Einschränkungen oder Abhängigkeiten.]
+
+**Anweisungen an die KI für die Bearbeitung:**
+
+1.  **Verständnis & Planung:**
+    *   Analysiere die Problembeschreibung und die Umgebungsinformationen sorgfältig. Stelle klärende Fragen, falls Aspekte unklar sind, *bevor* du mit der Implementierung beginnst.
+    *   Erstelle einen detaillierten Plan, indem du das Problem und die Anforderungen in kleinere, logische Unteraufgaben zerlegst. Lege die Reihenfolge der Bearbeitung fest.
+
+2.  **Iterative Implementierung & Überprüfung:**
+    *   Arbeite die Unteraufgaben schrittweise ab.
+    *   Nach jeder abgeschlossenen Unteraufgabe:
+        *   **Überprüfe die Funktionalität:** Stelle sicher, dass der bisher erstellte Code korrekt funktioniert und die Teilaufgabe erfüllt.
+        *   **Optimiere den Code:** Suche aktiv nach Verbesserungsmöglichkeiten hinsichtlich Lesbarkeit (z.B. klare Variablennamen, logische Struktur), Effizienz (Performance, Ressourcennutzung) und Einhaltung von Best Practices der jeweiligen Programmiersprache.
+        *   **Teste den Code:** Implementiere (ggf. gedanklich oder durch kleine Testroutinen) Tests für die gerade entwickelte Funktionalität.
+
+3.  **Maximale Anstrengung:**
+    *   Nutze deine volle Verarbeitungskapazität, dein Wissen über Algorithmen, Datenstrukturen und Design Patterns, um den bestmöglichen Code zu generieren.
+    *   Der Code soll nicht nur funktionieren, sondern auch robust, wartbar und gut dokumentiert sein.
+
+4.  **Code-Lieferung:**
+    *   Präsentiere den finalen Code klar strukturiert.
+    *   Füge Kommentare im Code hinzu, die komplexe Abschnitte oder wichtige Entscheidungen erläutern.
+    *   Gib ggf. eine kurze Anleitung zur Nutzung oder Integration des Codes.
+
+**Checkliste für die KI vor der finalen Code-Auslieferung:**
+
+- **Vollständigkeit:** Wurde das ursprüngliche Problem vollständig verstanden und alle expliziten sowie impliziten Anforderungen im Code adressiert?
+- **Korrektheit:** Ist der Code logisch korrekt und frei von offensichtlichen Fehlern? Funktioniert er wie in der Problembeschreibung erwartet?
+- **Robustheit:** Wurden mögliche Fehlerquellen und Grenzfälle bedacht und im Code behandelt (z.B. durch Fehlerbehandlung, Validierung von Eingaben)?
+- **Effizienz:** Ist der Code unter Berücksichtigung der Problemstellung performant und ressourcenschonend? Gibt es unnötige Schleifen oder Berechnungen?
+- **Lesbarkeit & Wartbarkeit:** Ist der Code klar strukturiert, gut formatiert und sind Variablennamen sowie Funktionsbezeichnungen aussagekräftig?
+- **Planerfüllung:** Wurde der erstellte Plan (Unteraufgaben) vollständig abgearbeitet und jeder Schritt sorgfältig verifiziert und optimiert?
+- **Dokumentation:** Sind ausreichende Kommentare im Code vorhanden? Ist eine externe Erklärung (falls nötig) klar und verständlich?
+- **Kontextberücksichtigung:** Wurden die "Informationen zu Deiner Umgebung und Präferenzen" bei der Erstellung des Codes beachtet?
+- **Selbstkritik:** Gibt es noch Aspekte des Codes, die verbessert werden könnten, auch wenn sie nicht explizit angefordert wurden? (Proaktive Optimierung)
+- **Testabdeckung:** Wurden die Kernfunktionen gedanklich oder durch tatsächliche kleine Tests auf ihre Korrektheit geprüft?
 
 
 ---
