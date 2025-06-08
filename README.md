@@ -4,11 +4,12 @@ Meine Prompts, die ich für Coden etc. verwenden mag
 
 ***Anleitung-Generierung***
 
-Erstelle mir eine PDF-Datei mit einer sehr einfach zu folgenden Schritt-für-Schritt-Anleitung. Sie soll selbst bei sehr schwacher Konzentration und völliger Übermüdung noch leicht verständlich sein. Es soll nur der nötigste Text mit den relevantesten Informationen enthalten sein.
+Erstelle mir eine sehr einfach zu folgende Schritt-für-Schritt-Anleitung. Sie soll selbst bei sehr schwacher Konzentration und völliger Übermüdung noch leicht verständlich sein. Es soll nur der nötigste Text mit den relevantesten Informationen enthalten sein.
 
 Gehe nach der Erstellung die unten aufgeführte Checkliste durch und überprüfe jeden Punkt sorgfältig. Korrigiere mögliche Unstimmigkeiten.
 
 **Thema der Anleitung:**
+
 
 
 
