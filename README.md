@@ -49,7 +49,13 @@ Ich möchte dieses Wissen erwerben, damit es auf meinem Radar ist. In kreativen 
 
 Code 1 Config Files, wenn dieser Punkt leer ist, dann einfach ignorieren :
 
+
+
 Code 2 Der Hauptcode:
+
+
+Mein Problem Thema:
+
 
 
 **Informationen zu Deiner Umgebung und Präferenzen:**
