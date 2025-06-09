@@ -46,10 +46,17 @@ Ich möchte dieses Wissen erwerben, damit es auf meinem Radar ist. In kreativen 
 **Ziel:** Erstellung von qualitativ hochwertigem, effizientem und sofort funktionsfähigem Code basierend auf einer spezifischen Problemanforderung. Die KI soll dabei maximalen Aufwand betreiben und eine strukturierte Herangehensweise nutzen.
 
 **Dein spezifisches Coding-Problem:**
-[HIER DEIN PROBLEM DETAILLIERT BESCHREIBEN: Was soll der Code tun? Welche Programmiersprache? Gibt es existierenden Code, an den angeknüpft werden soll? Welche Libraries oder Frameworks sind relevant? Gibt es spezielle Anforderungen an Performance, Stil oder Fehlerbehandlung?]
+Code 1 :
+
+Code 2 :
+
 
 **Informationen zu Deiner Umgebung und Präferenzen:**
-[HIER INFORMATIONEN ANGEBEN, z.B.: Bevorzugte Programmierparadigmen (OOP, funktional etc.), gewünschter Kommentarstil, spezifische Versionen von Tools/Libraries, Zielplattform, bekannte Einschränkungen oder Abhängigkeiten.]
+Ich möchte unbedingt viel Redundante Sicherheit und User Experiance in allen meinen Codes haben.
+Wenn eine doppelte Absicherung der Funktion möglich ist, dann möchte ich das immer im Notfall oder ungeplanten auftreten immer eine Fallbacklösung vorhanden ist.
+Mir ist auch immer das Design sehr wichtig, da wie gesagt der Nutzer ein angenehmes Erlebnis haben soll, beim Stiel dann auch immer sích an Apples schlichem und guten Design orientieren.
+Außerdem sollte alles was möglich ist mit Multithreading gelöst werden, und dabei auch immer streng auf eine saubere Mutex Infrastruktur geachtet werden,dass ist mir sehr wichtig.
+
 
 **Anweisungen an die KI für die Bearbeitung:**
 
