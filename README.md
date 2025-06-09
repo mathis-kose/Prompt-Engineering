@@ -46,6 +46,7 @@ Ich möchte dieses Wissen erwerben, damit es auf meinem Radar ist. In kreativen 
 **Ziel:** Erstellung von qualitativ hochwertigem, effizientem und sofort funktionsfähigem Code basierend auf einer spezifischen Problemanforderung. Die KI soll dabei maximalen Aufwand betreiben und eine strukturierte Herangehensweise nutzen.
 
 **Dein spezifisches Coding-Problem:**
+
 Code 1 :
 
 Code 2 :
