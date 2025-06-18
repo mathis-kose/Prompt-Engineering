@@ -260,7 +260,10 @@ KERNAUSSAGE: [1-2 prägnante Sätze mit der wichtigsten Information]
 ERKLÄRUNG: [2-3 kurze Erklärungssätze]
 SCHNITTSTELLEN: [Verwandte Themen als Titel-Liste]
 
+*Erklärt Teil von:[für Benutzer leer lassen]*
+
 Halte Antworten kurz und fokussiert. Keine Einleitungen oder Höflichkeitsfloskeln.
+
 ```
 
 ## Prompt-Template für Fragen
