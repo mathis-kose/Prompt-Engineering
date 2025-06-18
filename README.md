@@ -168,7 +168,46 @@ Spezifische Zeichen oder Wörter festlegen, bei denen Gemini die Generierung sto
 ### 20. Fallback-Strategien vorbereiten
 Bei Safety-Filter-Auslösung Temperature erhöhen oder Prompt umformulieren. Faktische Genauigkeit nicht für komplexe Berechnungen erwarten.
 
+## Einstellungen
 
+## Optimale Gemini-Einstellungen für knappa Antworten:
+
+**Parameter-Einstellungen:**
+- **Temperature: 0-0.2** (deterministische, fokussierte Antworten)
+- **Max Output Tokens: 50-150** (je nach gewünschter Länge)
+- **TopP: 0.8** (statt Standard 0.95)
+- **Stop Sequences:** "Zusammenfassend", "Darüber hinaus", "Außerdem"
+
+**Prompt-Struktur:**
+```
+[KNAPP]: Antworte in maximal 2-3 Sätzen.
+[AUFGABE]: [Deine konkrete Frage]
+[FORMAT]: Nur die Kernaussage, keine Einleitung.
+
+Beispiel:
+Frage: Wie funktioniert Photosynthese?
+Antwort: Pflanzen wandeln Licht + CO2 + Wasser in Glucose + Sauerstoff um.
+```
+
+**Effektive Prompt-Präfixe:**
+- "Kurz:" / "Knapp:" / "Direkt:"
+- "In einem Satz:"
+- "Kernaussage:"
+- "Nur das Wichtigste:"
+
+## Persönlicher Kontext in Google AI Studio:
+
+**System Instructions Bereich:** (meist oben in der Benutzeroberfläche)
+```
+Du bist mein Lern-Assistent. Antworte immer knapp und direkt.
+Mein Hintergrund: [deine Expertise/Branche]
+Meine Lernziele: [spezifische Themen]
+Bevorzugter Stil: Bullet Points, kurze Sätze, keine Wiederholungen
+```
+
+**In den Model Parameters** kannst du diese Einstellungen als Standard speichern.
+
+**Tipp:** Erstelle dir Prompt-Templates mit deinem Kontext, die du wiederverwenden kannst.
 
 
 
