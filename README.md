@@ -296,7 +296,7 @@ SCHNITTSTELLEN:
 
 ## Einstellungen für AI Studio
 - **Temperature:** 0.2 (fokussiert)
-- **Max Output Tokens:** 150-200
+- **Max Output Tokens:** 2000
 - **TopP:** 0.85
 - **Stop Sequence:** "WEITERES:" (verhindert Abschweifen)
 
