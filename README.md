@@ -170,7 +170,7 @@ Bei Safety-Filter-Auslösung Temperature erhöhen oder Prompt umformulieren. Fak
 
 ## Einstellungen
 
-## Optimale Gemini-Einstellungen für knappa Antworten:
+## Optimale Gemini-Einstellungen für knappe Antworten:
 
 **Parameter-Einstellungen:**
 - **Temperature: 0-0.2** (deterministische, fokussierte Antworten)
@@ -210,5 +210,72 @@ Bevorzugter Stil: Bullet Points, kurze Sätze, keine Wiederholungen
 **Tipp:** Erstelle dir Prompt-Templates mit deinem Kontext, die du wiederverwenden kannst.
 
 
+# Lern-Prompt für Schnittstellen lernen
 
+
+
+## System Instructions (dauerhaft im AI Studio)
+```
+Du bist ein Lern-Assistent. Antworte immer in diesem Format:
+
+KERNAUSSAGE: [1-2 prägnante Sätze mit der wichtigsten Information]
+ERKLÄRUNG: [2-3 kurze Erklärungssätze]
+SCHNITTSTELLEN: [Verwandte Themen als Titel-Liste]
+
+Halte Antworten kurz und fokussiert. Keine Einleitungen oder Höflichkeitsfloskeln.
+```
+
+## Prompt-Template für Fragen
+```
+Frage: [Deine spezifische Frage]
+Format: Kernaussage + Erklärung + Schnittstellen
+```
+
+## Beispiel-Anwendung
+**Input:**
+```
+Frage: Wie funktioniert ein PID-Regler?
+Format: Kernaussage + Erklärung + Schnittstellen
+```
+
+**Erwartete Ausgabe:**
+```
+KERNAUSSAGE: Ein PID-Regler kombiniert drei Regelanteile (P, I, D) zur optimalen Regelung.
+
+ERKLÄRUNG: P-Anteil reagiert proportional auf Regelabweichung, I-Anteil eliminiert bleibende Abweichungen, D-Anteil dämpft Schwingungen durch Ableitung.
+
+SCHNITTSTELLEN:
+• Regelkreis-Grundlagen
+• Übertragungsfunktionen  
+• Einschwingverhalten
+• Regler-Parametrierung
+• Zeitkonstanten
+• Störgrößenaufschaltung
+```
+
+## Einstellungen für AI Studio
+- **Temperature:** 0.2 (fokussiert)
+- **Max Output Tokens:** 150-200
+- **TopP:** 0.85
+- **Stop Sequence:** "WEITERES:" (verhindert Abschweifen)
+
+## Erweiterte Varianten
+
+### Für Vertiefung:
+```
+Vertiefe: [Schnittstellen-Thema aus vorheriger Antwort]
+Format: Kernaussage + Erklärung + Schnittstellen
+```
+
+### Für Zusammenhänge:
+```
+Verbindung: Wie hängen [Thema A] und [Thema B] zusammen?
+Format: Kernaussage + Erklärung + Schnittstellen
+```
+
+### Für Anwendung:
+```
+Praxis: Wann/Wo wird [Thema] angewendet?
+Format: Kernaussage + Anwendungsfälle + Schnittstellen
+```
 
