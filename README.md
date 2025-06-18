@@ -50,8 +50,8 @@ Ich möchte dieses Wissen erwerben, damit es auf meinem Radar ist. In kreativen 
 
 
 
-
-
+---
+---
 ---
 ***Code-Überarbeitung***
 ***Code-Generierung & Optimierung***
@@ -125,8 +125,8 @@ Außerdem sollte alles was möglich ist mit Multithreading gelöst werden, und d
 
 
 
-
-
+---
+---
 ---
 
 # Lernen mit Google Gemini
@@ -246,9 +246,9 @@ Bevorzugter Stil: Bullet Points, kurze Sätze, keine Wiederholungen
 
 
 
-
-
-
+---
+---
+---
 # Lern-Prompt für Schnittstellen lernen
 
 
