@@ -40,6 +40,19 @@ Ich möchte dieses Wissen erwerben, damit es auf meinem Radar ist. In kreativen 
 ---
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+---
 ***Code-Überarbeitung***
 ***Code-Generierung & Optimierung***
 
@@ -99,6 +112,19 @@ Außerdem sollte alles was möglich ist mit Multithreading gelöst werden, und d
 - **Kontextberücksichtigung:** Wurden die "Informationen zu Deiner Umgebung und Präferenzen" bei der Erstellung des Codes beachtet?
 - **Selbstkritik:** Gibt es noch Aspekte des Codes, die verbessert werden könnten, auch wenn sie nicht explizit angefordert wurden? (Proaktive Optimierung)
 - **Testabdeckung:** Wurden die Kernfunktionen gedanklich oder durch tatsächliche kleine Tests auf ihre Korrektheit geprüft?
+
+
+---
+
+
+
+
+
+
+
+
+
+
 
 
 ---
@@ -210,8 +236,20 @@ Bevorzugter Stil: Bullet Points, kurze Sätze, keine Wiederholungen
 **Tipp:** Erstelle dir Prompt-Templates mit deinem Kontext, die du wiederverwenden kannst.
 
 
-# Lern-Prompt für Schnittstellen lernen
 
+
+
+
+
+
+
+
+
+
+
+
+
+# Lern-Prompt für Schnittstellen lernen
 
 
 ## System Instructions (dauerhaft im AI Studio)
