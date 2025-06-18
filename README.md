@@ -103,6 +103,71 @@ Außerdem sollte alles was möglich ist mit Multithreading gelöst werden, und d
 
 ---
 
+# Lernen mit Google Gemini
+ Einstellungen und Kontext
+
+## 20 Wichtigste Aspekte für Gemini Prompt-Design
+
+### 1. Klare und spezifische Anweisungen verwenden
+Gemini funktioniert am besten mit präzisen, unzweideutigen Instruktionen. Vage Formulierungen führen zu unerwünschten Ergebnissen.
+
+### 2. Input-Typen gezielt einsetzen
+Unterscheiden zwischen: Fragen (Question Input), Aufgaben (Task Input), Entitäten (Entity Input) und partieller Vervollständigung (Completion Input).
+
+### 3. Few-Shot Prompts bevorzugen
+Zero-Shot Prompts (ohne Beispiele) sind weniger effektiv. Immer 2-3 konkrete Beispiele für gewünschte Ausgaben bereitstellen.
+
+### 4. Constraints (Beschränkungen) definieren
+Spezifizieren, was das Modell tun soll und was nicht. Länge, Format, Stil und inhaltliche Grenzen explizit festlegen.
+
+### 5. Response-Format strukturiert vorgeben
+Gewünschtes Ausgabeformat klar definieren: Tabelle, Liste, JSON, Absätze, etc. Format-Präfixe verwenden ("JSON:", "Tabelle:").
+
+### 6. Completion-Strategie nutzen
+Anstatt vollständige Anweisungen zu geben, den Anfang der gewünschten Antwort vorgeben und vom Modell vervollständigen lassen.
+
+### 7. Optimale Anzahl von Beispielen wählen
+2-5 Beispiele sind meist optimal. Zu wenige reduzieren Effektivität, zu viele führen zu Overfitting.
+
+### 8. Positive Patterns statt Anti-Patterns
+Zeigen, was getan werden soll, anstatt was vermieden werden sollte. Positive Beispiele sind effektiver.
+
+### 9. Konsistente Formatierung in Beispielen
+Alle Few-Shot Beispiele müssen identische Struktur, XML-Tags, Leerzeichen und Trennzeichen verwenden.
+
+### 10. Kontextinformationen bereitstellen
+Alle notwendigen Informationen in den Prompt einbetten, anstatt anzunehmen, dass Gemini alle Details kennt.
+
+### 11. Präfixe strategisch einsetzen
+Input-Präfixe ("Text:", "Frage:"), Output-Präfixe ("Antwort:", "JSON:") und Example-Präfixe für bessere Strukturierung.
+
+### 12. Komplexe Prompts aufteilen
+Bei komplexen Aufgaben: Instructions aufteilen, Prompt-Ketten erstellen oder parallele Verarbeitung mit Aggregation nutzen.
+
+### 13. Temperature-Parameter anpassen
+Niedrige Temperature (0-0.3) für deterministische Antworten, höhere (0.7-1.0) für kreative Ausgaben.
+
+### 14. TopK und TopP Parameter optimieren
+TopK begrenzt Wortauswahl, TopP kontrolliert kumulative Wahrscheinlichkeit. Standard TopP: 0.95.
+
+### 15. Max Output Tokens definieren
+Token-Limit basierend auf gewünschter Antwortlänge setzen (100 Tokens ≈ 60-80 Wörter).
+
+### 16. Verschiedene Formulierungen testen
+Identische Bedeutung, unterschiedliche Wortwahl kann verschiedene Ergebnisse liefern. Prompt-Variationen testen.
+
+### 17. Analoge Aufgaben verwenden
+Wenn direkte Instruktionen nicht funktionieren, ähnliche Aufgaben formulieren, die zum gleichen Ziel führen.
+
+### 18. Content-Reihenfolge variieren
+Reihenfolge von [Beispiele] [Kontext] [Input] kann Antwortqualität beeinflussen. Verschiedene Anordnungen testen.
+
+### 19. Stop-Sequences definieren
+Spezifische Zeichen oder Wörter festlegen, bei denen Gemini die Generierung stoppen soll.
+
+### 20. Fallback-Strategien vorbereiten
+Bei Safety-Filter-Auslösung Temperature erhöhen oder Prompt umformulieren. Faktische Genauigkeit nicht für komplexe Berechnungen erwarten.
+
 
 
 
