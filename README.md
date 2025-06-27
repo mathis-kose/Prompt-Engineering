@@ -1,5 +1,34 @@
 # Prompt-Engineering
 Meine Prompts, die ich für Coden etc. verwenden mag
+
+
+
+Absolut. Hier sind die 10 wichtigsten praktischen Tipps aus dem Video, um Ihre Fähigkeiten im Prompt-Engineering sofort zu verbessern:
+
+1.  **Verwende Playgrounds statt der Consumer-Interfaces:** Nutze nicht die allgemeinen Chat-Oberflächen (wie `chat.openai.com` oder Claude). Verwende stattdessen die API-Playgrounds (z.B. `platform.openai.com`). Diese geben dir die volle Kontrolle über alle Parameter wie System-Prompt, Temperatur und Modellwahl und zeigen dir genau, wie das Modell arbeitet.
+
+2.  **Kürze deine Prompts (Weniger ist mehr):** Die Leistung eines KI-Modells nimmt mit der Länge des Prompts ab. Lange, wortreiche Prompts führen zu ungenaueren Ergebnissen. Formuliere deine Anweisungen so kurz und informationsdicht wie möglich. Entferne alle Füllwörter und unnötigen Sätze.
+
+3.  **Definiere das Ausgabeformat explizit:** Sage dem Modell genau, in welchem Format du die Ausgabe haben möchtest. Das ist entscheidend für die Automatisierung. Anstatt nur "gib mir eine Liste" zu sagen, fordere ein spezifisches Format an, wie z.B. **JSON**, **CSV** oder **Markdown**.
+
+4.  **Sei unmissverständlich und spezifisch:** Vermeide vage Verben wie "produziere" oder "erstelle". Verwende stattdessen präzise Handlungsanweisungen wie "liste auf", "fasse zusammen", "übersetze", "schreibe neu". Je klarer deine Anweisung, desto geringer ist der Spielraum für Fehlinterpretationen durch die KI.
+
+5.  **Gib Beispiele (One- oder Few-Shot-Prompting):** Die mit Abstand größte Leistungssteigerung erzielst du, indem du dem Modell Beispiele für die gewünschte Ausgabe gibst. Bereits ein einziges gutes Beispiel (**One-Shot**) ist effektiver als viele zusätzliche Anweisungen. Bei komplexen Aufgaben führen mehrere Beispiele (**Few-Shot**) zu noch besseren Ergebnissen.
+
+6.  **Nutze die verschiedenen Rollen (System, User, Assistant):** Strukturiere deine Prompts in den Playgrounds klar:
+    *   **System:** Definiert die übergeordnete Identität und die Grundregeln der KI (z.B. "Du bist ein hilfreicher Assistent").
+    *   **User:** Enthält deine spezifischen Anweisungen und Aufgaben.
+    *   **Assistant:** Hier kannst du Beispiele für ideale Antworten einfügen, um der KI zu zeigen, wie sie reagieren soll (für Few-Shot-Prompting).
+
+7.  **Behandle LLMs als Konversations-Engines, nicht als Wissensdatenbanken:** Große Sprachmodelle sind hervorragend im Verstehen von Mustern, im logischen Schlussfolgern und im Führen von Gesprächen. Sie sind jedoch keine zuverlässigen Datenbanken für Fakten und können Fakten erfinden ("halluzinieren"). Verlasse dich nicht darauf, dass sie exakte, überprüfbare Informationen abrufen.
+
+8.  **Iteriere und teste deine Prompts datengestützt:** Ein guter Prompt, der einmal funktioniert hat, kann beim nächsten Mal versagen. Anstatt dich auf dein Bauchgefühl zu verlassen, teste einen Prompt systematisch (z.B. 20 Mal mit verschiedenen Eingaben), verfolge die Erfolgsquote in einer Tabelle und vergleiche sie mit anderen Prompt-Varianten, um den zuverlässigsten zu finden.
+
+9.  **Wähle das richtige Modell für die Aufgabe (Smart > Billig):** Beginne bei der Entwicklung eines Prompts immer mit dem intelligentesten und leistungsfähigsten verfügbaren Modell (z.B. GPT-4o statt GPT-4o mini). Die etwas höheren Kosten sind anfangs vernachlässigbar und sparen dir enorm viel Zeit, da das Modell deine Anweisungen besser versteht. Erst wenn der Prompt perfekt funktioniert, kannst du versuchen, für die Kostenoptimierung auf ein günstigeres Modell umzusteigen.
+
+10. **Verwende das Wort "spartanisch" für einen prägnanten Ton:** Ein einfacher Trick für kurze, direkte und schnörkellose Antworten ist die Anweisung: "Verwende einen spartanischen Tonfall." Das Modell versteht diese Metapher sehr gut und reduziert die Ausgabe auf das Wesentliche.
+
+
 ---
 
 ***Anleitung-Generierung***
