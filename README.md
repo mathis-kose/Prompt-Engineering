@@ -351,7 +351,7 @@ Format: Kernaussage + Anwendungsfälle + Schnittstellen
 
 # Key-Takeaways Promp
 ```
-# EXTREME KEY TAKEAWAYS - NUR DAS ABSOLUTE MINIMUM
+EXTREME KEY TAKEAWAYS - NUR DAS ABSOLUTE MINIMUM
 
 Analysiere den folgenden Text und extrahiere die 3-5 wichtigsten Kernaussagen. Jeder Punkt sollte:
 - Maximal 1 Satz
@@ -362,7 +362,4 @@ Analysiere den folgenden Text und extrahiere die 3-5 wichtigsten Kernaussagen. J
 
 Format: Kurze, prägnante Bulletpoints
 
----
-
-[HIER DEINEN TEXT EINFÜGEN]
 ```
