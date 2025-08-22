@@ -347,3 +347,21 @@ Praxis: Wann/Wo wird [Thema] angewendet?
 Format: Kernaussage + Anwendungsfälle + Schnittstellen
 ```
 
+---
+
+#Key-Takeaways Promp
+
+# EXTREME KEY TAKEAWAYS - NUR DAS ABSOLUTE MINIMUM
+
+Analysiere den folgenden Text und extrahiere die 3-5 wichtigsten Kernaussagen. Jeder Punkt sollte:
+- Maximal 1 Satz
+- Nur das absolut Wesentliche
+- Keine Füllwörter
+- Keine Wiederholungen
+- Fokus auf handlungsrelevante oder entscheidende Informationen
+
+Format: Kurze, prägnante Bulletpoints
+
+---
+
+[HIER DEINEN TEXT EINFÜGEN]
