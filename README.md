@@ -382,3 +382,24 @@ Context: [Brief note about your industry/company if relevant]
 
 ```
 
+# Umfangreiche technische Recherche
+
+```
+
+Stellen Sie eine umfassende technische Analyse von [THEMA EINFÜGEN] mit fundierten technischen Kenntnissen bereit. Strukturieren Sie die Antwort als dichten, informationsreichen, zusammenhängenden Text, der für die weitere KI-Verarbeitung geeignet ist.
+
+Anforderungen:
+1. **Technische Tiefe**: Erläutern Sie sowohl die allgemeinen Funktionsprinzipien als auch die zugrunde liegenden technischen Mechanismen auf Komponenten-/Physikebene.
+2. **Struktur**: Folgen Sie einer logischen Abfolge – Grundprinzipien → Detaillierte Funktion → Implementierungsschritte  
+3. **Mathematische Grundlagen**: Fügen Sie relevante Formeln mit klaren Erklärungen und ausgearbeiteten Beispielen hinzu.
+4. **Priorität der Quellen**: Verwenden Sie IEEE-Publikationen, technische Dokumentationen und von Fachkollegen begutachtete technische Quellen.
+5. **Qualität des Inhalts**: Vermeiden Sie Füllsätze – jeder Satz muss einen technischen Einblick oder ein technisches Verständnis vermitteln.
+6. **Praktischer Kontext**: Fügen Sie Details zur Umsetzung in der Praxis und Überlegungen zum Design hinzu.
+
+Konzentrieren Sie sich darauf, WARUM und WIE die Technologie auf grundlegender Ebene funktioniert. Erläutern Sie die physikalischen, elektrischen und technischen Prinzipien, die ihre Funktionsweise ermöglichen.
+
+Thema: [IHR SPEZIFISCHES ELEKTROTECHNISCHES THEMA HIER EINFÜGEN]
+
+Übersetzt mit DeepL.com (kostenlose Version)
+
+```
