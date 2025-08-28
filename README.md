@@ -400,6 +400,4 @@ Konzentrieren Sie sich darauf, WARUM und WIE die Technologie auf grundlegender E
 
 Thema: [IHR SPEZIFISCHES ELEKTROTECHNISCHES THEMA HIER EINFÜGEN]
 
-Übersetzt mit DeepL.com (kostenlose Version)
-
 ```
