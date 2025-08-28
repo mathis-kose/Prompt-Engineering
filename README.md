@@ -349,7 +349,7 @@ Format: Kernaussage + Anwendungsfälle + Schnittstellen
 
 ---
 
-# Key-Takeaways Promp
+# Key-Takeaways Prompt
 ```
 EXTREME KEY TAKEAWAYS - NUR DAS ABSOLUTE MINIMUM
 
