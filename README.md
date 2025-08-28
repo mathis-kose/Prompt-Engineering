@@ -363,3 +363,22 @@ Analysiere den folgenden Text und extrahiere die 3-5 wichtigsten Kernaussagen. J
 Format: Kurze, prägnante Bulletpoints
 
 ```
+
+# Einleitung in technische Themen auch für Leihen
+```
+Write a business English introduction for [TECHNICAL TOPIC]. The target audience includes both technical professionals and non-technical stakeholders who need to understand the business relevance.
+
+Requirements:
+- Length: 150-250 words
+- Start with a clear, jargon-free definition
+- Explain the business value/impact in 2-3 sentences
+- Include one concrete, relatable analogy or example
+- End with a transition sentence that leads into the main article
+- Use professional but accessible language (avoid heavy technical jargon)
+- Structure: Definition → Business relevance → Practical example → Transition
+
+Topic: [INSERT YOUR SPECIFIC TOPIC HERE]
+Context: [Brief note about your industry/company if relevant]
+
+```
+
