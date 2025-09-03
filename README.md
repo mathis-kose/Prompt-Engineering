@@ -474,7 +474,7 @@ Strukturiertes Dokument mit Zwischenüberschriften, Bulletpoints für Details, u
 LÄNGE: Minimum 3000-5000 Wörter für umfassende Abdeckung.
 ZUSÄTZLICHE ANWEISUNG: Wenn du auf Wissenslücken stößt, kennzeichne diese explizit und erkläre, wo weitere Forschung nötig wäre.
 ```
-# Entscheidungs Helfer Prompt (2/3)
+## Entscheidungs Helfer Prompt (2/3)
 
 ```
 # Strategic Technology Decision Advisory Prompt
@@ -613,4 +613,20 @@ Wer wird wie von jeder Entscheidung betroffen?
 2. Passe die Leistungsparameter an deine Anwendung an
 3. Definiere relevante Mess- und Testmethoden
 4. Fokussiere auf quantifizierbare, technische Kriterien
+```
+## 1/10 Bewertung(3/3)
+```
+Subjekt der Analyse: [Name des Themas]
+1. Bewertung des Leitenden Fachexperten
+Gesamtbewertung (1-10): [Zahl]
+Faktengestützte Begründung (Stichpunkte):
+Wirkungsmechanismus: ...
+Strukturelle Auswirkungen: ...
+Belastbarkeit: ...
+Limitierender Faktor: ...
+2. Kommentar des kritischen Systemanalysten
+Analyse der Bewertung: ...
+Identifizierte Schlüsselfaktoren: ...
+Systemische Trade-offs: ...
+Kritische Variable: ...
 ```
