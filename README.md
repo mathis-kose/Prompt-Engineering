@@ -402,7 +402,7 @@ Thema: [IHR SPEZIFISCHES ELEKTROTECHNISCHES THEMA HIER EINFÜGEN]
 
 ```
 
-# Umfangreiche Recherche 2
+# Umfangreiche Recherche 2 + folgenden Entscheidungshelfer Prompt
 
 ```
 ROLLE: Du bist ein wissenschaftlicher Forschungsexperte mit Zugang zu umfassenden Datenbanken und jahrzehntelanger Erfahrung in [THEMA EINFÜGEN].
@@ -471,4 +471,144 @@ OUTPUT-FORMAT:
 Strukturiertes Dokument mit Zwischenüberschriften, Bulletpoints für Details, und klarer Trennung zwischen etablierten Fakten vs. spekulativen Bereichen.
 LÄNGE: Minimum 3000-5000 Wörter für umfassende Abdeckung.
 ZUSÄTZLICHE ANWEISUNG: Wenn du auf Wissenslücken stößt, kennzeichne diese explizit und erkläre, wo weitere Forschung nötig wäre.
+```
+# Entscheidungs Helfer Prompt
+
+```
+# Strategic Technology Decision Advisory Prompt
+
+## Haupt-Prompt:
+
+**ROLLE**: Du bist ein Senior Strategic Technology Advisor mit 20+ Jahren Erfahrung in Technologie-Implementierung, Risikobewertung und Change Management. Du kombinierst tiefes technisches Verständnis mit strategischem Geschäftssinn.
+
+**KONTEXT**: Basierend auf der umfassenden Recherche zu [TECHNOLOGIE/THEMA], führe jetzt eine strategische Entscheidungsberatung durch.
+
+**AUFGABE**: Analysiere alle möglichen Entscheidungspfade und deren Konsequenzen für die Implementierung/Nutzung von [SPEZIFISCHE TECHNOLOGIE].
+
+---
+
+## DECISION FRAMEWORK
+
+### 1. Szenario-Mapping
+**Für jede Entscheidungsoption erstelle:**
+
+**Option A: [Entscheidung 1]**
+- **Kurzfristige Auswirkungen** (0-6 Monate)
+- **Mittelfristige Auswirkungen** (6 Monate - 2 Jahre)  
+- **Langfristige Auswirkungen** (2+ Jahre)
+- **Point of No Return** (ab wann irreversibel?)
+
+**Option B: [Entscheidung 2]**
+[Gleiche Struktur]
+
+**Option C: Hybrid/Stufenweise Implementierung**
+[Gleiche Struktur]
+
+### 2. Multi-Dimensionale Risiko-Nutzen-Analyse
+
+**Für jede Option bewerte:**
+
+#### A) TECHNISCHE DIMENSION
+- **Implementierungskomplexität** (1-10 Skala)
+- **Technische Risiken** und Mitigation-Strategien
+- **Skalierbarkeit** und Performance-Implikationen
+- **Integration** mit bestehenden Systemen
+- **Wartung/Support-Anforderungen**
+
+#### B) WIRTSCHAFTLICHE DIMENSION
+- **Initial Investment** (detaillierte Kostenaufschlüsselung)
+- **ROI-Projektion** mit verschiedenen Szenarien (Best/Realistic/Worst Case)
+- **Total Cost of Ownership** (5-Jahres-Projektion)
+- **Opportunitätskosten** (was wird dadurch NICHT möglich?)
+- **Break-Even-Point** Analyse
+
+#### C) ORGANISATORISCHE DIMENSION  
+- **Change Management** Anforderungen
+- **Skill Gap** Analysis & Training-Bedarf
+- **Kulturelle Auswirkungen** auf das Team/Unternehmen
+- **Widerstand-Potenzial** und Überzeugungsstrategien
+- **Zeitlicher Aufwand** für Stakeholder
+
+#### D) RISIKO-DIMENSION
+- **Technische Risiken** (Ausfallrisiko, Bugs, Performance)
+- **Marktrisiken** (Technologie wird obsolet, Konkurrenz)
+- **Regulatorische Risiken** (Gesetze, Compliance, Datenschutz)
+- **Reputationsrisiken** (was wenn es schiefgeht?)
+- **Vendor Lock-in** Risiken
+
+#### E) CHANCEN-DIMENSION
+- **Competitive Advantage** Potenzial
+- **Neue Geschäftsmöglichkeiten** die sich eröffnen
+- **Effizienzgewinne** (quantifiziert)
+- **Innovation-Sprungbrett** für weitere Entwicklungen
+- **Market Positioning** Verbesserungen
+
+### 3. Entscheidungs-Matrix
+
+**Erstelle eine gewichtete Bewertungsmatrix:**
+```
+Kriterium | Gewichtung | Option A | Option B | Option C
+---------|------------|----------|----------|----------
+Kosten   |    25%     |    X     |    Y     |    Z
+Risiko   |    20%     |    X     |    Y     |    Z
+[etc.]
+```
+
+### 4. Red Team Analysis
+**"Was könnte alles schiefgehen?"**
+- Worst-Case-Szenarien für jede Option
+- Cascade-Effekte (welche Probleme ziehen weitere nach sich?)
+- Black Swan Events (unvorhersehbare Ereignisse)
+- Exit-Strategien falls Pivot nötig wird
+
+### 5. Implementation Roadmap
+**Für die empfohlene Option:**
+- **Phase 1**: Proof of Concept (Timeline, Meilensteine, Success Criteria)  
+- **Phase 2**: Pilot Implementation (Scope, Metrics, Rollback-Plan)
+- **Phase 3**: Full Rollout (Change Management, Training, Support)
+- **Contingency Plans** für verschiedene Probleme
+
+### 6. Decision Support Tools
+
+#### A) DECISION TREE
+Visualisiere die Entscheidungspunkte und deren Konsequenzen
+
+#### B) STAKEHOLDER IMPACT MAP
+Wer wird wie von jeder Entscheidung betroffen?
+
+#### C) TIMING ANALYSIS  
+- **Optimal timing** für Implementation
+- **Market readiness** Assessment
+- **Internal readiness** Assessment
+
+### 7. Final Recommendation
+
+**EMPFEHLUNG**: [Klare Präferenz mit Begründung]
+
+**CONFIDENCE LEVEL**: X% (basierend auf verfügbarer Datenlage)
+
+**CRITICAL SUCCESS FACTORS**: Die 3-5 wichtigsten Faktoren für Erfolg
+
+**EARLY WARNING INDICATORS**: Woran erkenne ich frühzeitig, wenn es nicht läuft?
+
+**NEXT STEPS**: Konkrete nächste Schritte mit Verantwortlichkeiten und Deadlines
+
+---
+
+## OUTPUT-ANFORDERUNGEN:
+
+**FORMAT**: Executive Summary + Detailanalyse mit klaren Abschnitten
+**LÄNGE**: 4000-6000 Wörter (angemessen für strategische Entscheidung)  
+**STIL**: Ausgewogen zwischen analytisch und handlungsorientiert
+**EVIDENZ**: Alle Aussagen mit Daten aus der ursprünglichen Recherche belegen
+
+**BESONDERE ANFORDERUNG**: Unterscheide klar zwischen **Fakten** (aus Recherche), **fundierten Einschätzungen** (basierend auf Erfahrung) und **Spekulationen** (als solche kennzeichnen).
+
+---
+
+## Verwendungshinweise:
+1. Füge die spezifische Technologie/Implementation ein
+2. Passe die Leistungsparameter an deine Anwendung an
+3. Definiere relevante Mess- und Testmethoden
+4. Fokussiere auf quantifizierbare, technische Kriterien
 ```
