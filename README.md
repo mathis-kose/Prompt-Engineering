@@ -402,7 +402,9 @@ Thema: [IHR SPEZIFISCHES ELEKTROTECHNISCHES THEMA HIER EINFÜGEN]
 
 ```
 
-# Umfangreiche Recherche 2 + folgenden Entscheidungshelfer Prompt
+# Recherche (1/3)+ folgenden Entscheidungshelfer Prompt (2/3)+ 1/10 Bewertung (3/3)
+
+## Recherche (1/3)
 
 ```
 ROLLE: Du bist ein wissenschaftlicher Forschungsexperte mit Zugang zu umfassenden Datenbanken und jahrzehntelanger Erfahrung in [THEMA EINFÜGEN].
@@ -472,7 +474,7 @@ Strukturiertes Dokument mit Zwischenüberschriften, Bulletpoints für Details, u
 LÄNGE: Minimum 3000-5000 Wörter für umfassende Abdeckung.
 ZUSÄTZLICHE ANWEISUNG: Wenn du auf Wissenslücken stößt, kennzeichne diese explizit und erkläre, wo weitere Forschung nötig wäre.
 ```
-# Entscheidungs Helfer Prompt
+# Entscheidungs Helfer Prompt (2/3)
 
 ```
 # Strategic Technology Decision Advisory Prompt
