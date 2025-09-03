@@ -382,7 +382,7 @@ Context: [Brief note about your industry/company if relevant]
 
 ```
 
-# Umfangreiche technische Recherche
+# Umfangreiche technische Recherche 1
 
 ```
 
@@ -400,4 +400,75 @@ Konzentrieren Sie sich darauf, WARUM und WIE die Technologie auf grundlegender E
 
 Thema: [IHR SPEZIFISCHES ELEKTROTECHNISCHES THEMA HIER EINFÜGEN]
 
+```
+
+# Umfangreiche Recherche 2
+
+```
+ROLLE: Du bist ein wissenschaftlicher Forschungsexperte mit Zugang zu umfassenden Datenbanken und jahrzehntelanger Erfahrung in [THEMA EINFÜGEN].
+AUFGABE: Führe eine erschöpfende, multi-dimensionale Analyse zu [SPEZIFISCHES THEMA] durch.
+RECHERCHE-TIEFE ANFORDERUNGEN:
+1. Wissenschaftliche Fundierung
+
+Analysiere alle verfügbaren peer-reviewten Studien der letzten 20 Jahre
+Berücksichtige sowohl etablierte als auch emerging research
+Inkludiere Meta-Analysen, systematische Reviews und Primärstudien
+Identifiziere kontroverse Findings und wissenschaftliche Debatten
+
+2. Physikalische/Mechanistische Basis
+
+Erkläre die zugrundeliegenden physikalischen Prinzipien
+Beschreibe molekulare/zelluläre Mechanismen (falls relevant)
+Analysiere Ursache-Wirkungs-Ketten
+Inkludiere mathematische Modelle und Gleichungen wo anwendbar
+
+3. Multidisziplinäre Perspektive
+Berücksichtige Erkenntnisse aus:
+
+Grundlagenforschung und angewandter Forschung
+Verwandten Disziplinen und Grenzgebieten
+Historische Entwicklung des Forschungsfeldes
+Internationale vs. regionale Studien
+
+4. Methodologische Vielfalt
+
+Experimentelle Studien (RCTs, Kohortenstudien, etc.)
+Observationsstudien und Feldforschung
+Computational modeling und Simulationen
+Laborstudien vs. Real-world-Daten
+
+5. Detailgrad-Anforderungen
+Für jeden Aspekt liefere:
+
+Quantitative Daten mit Konfidenzintervallen
+Effektgrößen und statistische Signifikanz
+Methodologische Details und Limitationen
+Replikationsstatus der Findings
+Sample-Größen und Studienpopulationen
+
+6. Strukturierung der Analyse
+A) Executive Summary (trotz Detailgrad)
+B) Grundlagen & Definitionen
+C) Historische Entwicklung
+D) Aktueller Forschungsstand
+
+Etablierte Fakten
+Kontroverse Bereiche
+Forschungslücken
+E) Mechanistische Erklärungen
+F) Praktische Implikationen
+G) Zukünftige Forschungsrichtungen
+H) Vollständige Quellenangaben
+
+7. Qualitätskriterien
+
+Priorisiere hochrangige Journals (Impact Factor > X)
+Berücksichtige nur Studien mit n > X (definiere je nach Feld)
+Gewichte Evidenzlevel nach Studiendesign
+Identifiziere und kennzeichne mögliche Bias-Quellen
+
+OUTPUT-FORMAT:
+Strukturiertes Dokument mit Zwischenüberschriften, Bulletpoints für Details, und klarer Trennung zwischen etablierten Fakten vs. spekulativen Bereichen.
+LÄNGE: Minimum 3000-5000 Wörter für umfassende Abdeckung.
+ZUSÄTZLICHE ANWEISUNG: Wenn du auf Wissenslücken stößt, kennzeichne diese explizit und erkläre, wo weitere Forschung nötig wäre.
 ```
