@@ -404,6 +404,8 @@ Thema: [IHR SPEZIFISCHES ELEKTROTECHNISCHES THEMA HIER EINFÜGEN]
 
 # Recherche (1/3)+ folgenden Entscheidungshelfer Prompt (2/3)+ 1/10 Bewertung (3/3)
 
+
+
 ## Recherche (1/3)
 
 ```
