@@ -546,13 +546,13 @@ ZUSÄTZLICHE ANWEISUNG: Wenn du auf Wissenslücken stößt, kennzeichne diese ex
 ### 3. Entscheidungs-Matrix
 
 **Erstelle eine gewichtete Bewertungsmatrix:**
-```
+
 Kriterium | Gewichtung | Option A | Option B | Option C
 ---------|------------|----------|----------|----------
 Kosten   |    25%     |    X     |    Y     |    Z
 Risiko   |    20%     |    X     |    Y     |    Z
 [etc.]
-```
+
 
 ### 4. Red Team Analysis
 **"Was könnte alles schiefgehen?"**
