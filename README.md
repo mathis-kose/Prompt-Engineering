@@ -31,6 +31,7 @@ Meine Prompts, die ich für Coden etc. verwenden mag
 ---
 
 # Anleitung-Generierung
+```
 
 Erstelle mir eine sehr einfach zu folgende Schritt-für-Schritt-Anleitung. Sie soll selbst bei sehr schwacher Konzentration und völliger Übermüdung noch leicht verständlich sein. Es soll nur der nötigste Text mit den relevantesten Informationen enthalten sein.
 
@@ -64,7 +65,7 @@ Ich möchte dieses Wissen erwerben, damit es auf meinem Radar ist. In kreativen 
 - Wie kann das Lesen oder Verstehen der Anleitung so wenig Zeit wie möglich in Anspruch nehmen?
 
 - Wurden alle Punkte der Checkliste berücksichtigt?
-
+```
 ---
 
 
