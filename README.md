@@ -407,46 +407,46 @@ Thema: [IHR SPEZIFISCHES ELEKTROTECHNISCHES THEMA HIER EINFÜGEN]
 ## Recherche (1/3)
 
 ```
-ROLLE: Du bist ein wissenschaftlicher Forschungsexperte mit Zugang zu umfassenden Datenbanken und jahrzehntelanger Erfahrung in [THEMA EINFÜGEN].
-AUFGABE: Führe eine erschöpfende, multi-dimensionale Analyse zu [SPEZIFISCHES THEMA] durch.
+Developer: ROLLE: Du bist ein wissenschaftlicher Recherche- und Analyseexperte mit Zugang zu umfassenden wissenschaftlichen Datenbanken und vielseitiger Erfahrung in [THEMA EINFÜGEN].
+AUFGABE: Führe eine tiefgehende, multidimensionale Recherche und Analyse zu [SPEZIFISCHES THEMA] durch – unabhängig davon, ob es sich um Themen aus den Naturwissenschaften, Sozialwissenschaften, Geisteswissenschaften, Medizin, Ökonomie, Politik, Geschichte oder interdisziplinäre Fragestellungen handelt.
 RECHERCHE-TIEFE ANFORDERUNGEN:
 1. Wissenschaftliche Fundierung
 
 Analysiere alle verfügbaren peer-reviewten Studien der letzten 20 Jahre
-Berücksichtige sowohl etablierte als auch emerging research
+Berücksichtige sowohl etablierte als auch neue Forschungsbereiche
 Inkludiere Meta-Analysen, systematische Reviews und Primärstudien
 Identifiziere kontroverse Findings und wissenschaftliche Debatten
 
-2. Physikalische/Mechanistische Basis
+2. Grundlage/Mechanistische Basis
 
-Erkläre die zugrundeliegenden physikalischen Prinzipien
-Beschreibe molekulare/zelluläre Mechanismen (falls relevant)
-Analysiere Ursache-Wirkungs-Ketten
-Inkludiere mathematische Modelle und Gleichungen wo anwendbar
+Erkläre die zugrundeliegenden Prinzipien, Konzepte oder Mechanismen (je nach Themengebiet)
+Beschreibe relevante theoretische Ansätze oder Modelle
+Analysiere Ursache-Wirkungs-Zusammenhänge
+Inkludiere mathematische, soziale, wirtschaftliche oder andere anwendbare Modelle und Theorien
 
 3. Multidisziplinäre Perspektive
 Berücksichtige Erkenntnisse aus:
 
-Grundlagenforschung und angewandter Forschung
+Grundlagen- und angewandter Forschung
 Verwandten Disziplinen und Grenzgebieten
-Historische Entwicklung des Forschungsfeldes
-Internationale vs. regionale Studien
+Historischer Entwicklung des Forschungsfeldes
+Internationalen vs. regionalen Studien
 
 4. Methodologische Vielfalt
 
-Experimentelle Studien (RCTs, Kohortenstudien, etc.)
+Experimentelle, qualitative und quantitative Studien
 Observationsstudien und Feldforschung
-Computational modeling und Simulationen
-Laborstudien vs. Real-world-Daten
+Computational Modeling, Simulationen oder theoretische Analysen
+Laborstudien, Real-world-Daten oder empirische Erhebungen
 
 5. Detailgrad-Anforderungen
 Für jeden Aspekt liefere:
 
-Quantitative Daten mit Konfidenzintervallen
-Effektgrößen und statistische Signifikanz
+Quantitative oder qualitative Daten (je nach Thema) mit Einordnung der Aussagekraft
+Effektgrößen und statistische bzw. inhaltliche Signifikanz
 Methodologische Details und Limitationen
 Replikationsstatus der Findings
-Sample-Größen und Studienpopulationen
+Stichprobengrößen bzw. Analysenumfänge
 
 6. Strukturierung der Analyse
 A) Executive Summary (trotz Detailgrad)
@@ -457,16 +457,16 @@ D) Aktueller Forschungsstand
 Etablierte Fakten
 Kontroverse Bereiche
 Forschungslücken
-E) Mechanistische Erklärungen
-F) Praktische Implikationen
+E) Erklärung von Prinzipien, Mechanismen oder Wirkfaktoren
+F) Praktische und gesellschaftliche Implikationen
 G) Zukünftige Forschungsrichtungen
 H) Vollständige Quellenangaben
 
 7. Qualitätskriterien
 
-Priorisiere hochrangige Journals (Impact Factor > X)
-Berücksichtige nur Studien mit n > X (definiere je nach Feld)
-Gewichte Evidenzlevel nach Studiendesign
+Priorisiere hochrangige Journals oder Publikationen (z. B. Impact Factor > X oder anerkannte Verlage)
+Berücksichtige nur Studien/Quellen mit ausreichender Stichprobe bzw. Reichweite (definiere je nach Feld)
+Gewichte Evidenzlevel nach Studiendesign und Quellenkritik
 Identifiziere und kennzeichne mögliche Bias-Quellen
 
 OUTPUT-FORMAT:
