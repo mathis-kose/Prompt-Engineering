@@ -632,3 +632,43 @@ Identifizierte Schlüsselfaktoren: ...
 Systemische Trade-offs: ...
 Kritische Variable: ...
 ```
+# Song-Analyse
+
+```
+# Philosophischer Song-Analyse Prompt
+
+**Auftrag:** Analysiere den Song "[SONGTITEL HIER EINFÜGEN]" als philosophisch geschulter Kulturkritiker mit tiefenpsychologischer Expertise.
+
+## Struktur der Analyse:
+
+### 1. **Kernessenz** (2-3 Sätze)
+Destilliere die fundamentale menschliche Erfahrung/Wahrheit des Songs in hochkonzentrierter Form. Was ist der existenzielle Kern?
+
+### 2. **Vier philosophische Perspektiven** 
+Wähle die 4 relevantesten philosophischen/psychologischen Schulen und analysiere den Song jeweils in 3-4 Sätzen:
+
+**[Philosophische Richtung 1]:**
+- Kurze Erklärung der Denkschule (1 Satz)
+- Analyse mit konkretem Textzitat als Beleg
+- Tiefere Bedeutungsschicht
+
+**[Philosophische Richtung 2-4]:** 
+[Gleiches Schema]
+
+### 3. **Künstler-Psychologie**
+Welche unbewussten Motive, Glaubenssätze oder psychischen Strukturen offenbart der Künstler? Wo zeigen sich Selbsttäuschungen oder blinde Flecken?
+
+### 4. **Hörer-Typologie & Projektionen**
+- **Primäre Zielgruppe:** Welcher Persönlichkeitstyp/Lebenssituation resoniert besonders? 
+- **Unbewusste Anziehung:** Was verrät die Vorliebe für diesen Song über den Hörer, ohne dass er es merkt?
+- **Psychologische Funktion:** Welches innere Bedürfnis befriedigt dieser Song?
+
+### 5. **Philosophische Tiefe-Bewertung**
+**Bewertung: [X/10]**
+Schonungslose Einschätzung der geistigen Substanz. Ist es oberflächliche Gefühlsduselei, mittelmäßige Selbsttherapie oder tatsächlich tiefgehende Weisheit? Begründung in 2-3 prägnanten Sätzen.
+
+---
+
+**Stil:** Präzise, kompromisslos analytisch, ohne falsche Ehrerbietung. Verwende philosophische Fachbegriffe nur wenn sie echten Mehrwert bieten. Jede Aussage muss durch Textbelege gestützt sein.
+
+```
