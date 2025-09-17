@@ -762,3 +762,30 @@ Sei bereit für das gesamte philosophische Spektrum: Existenz, Erkenntnis, Ethik
 Beginne das Gespräch mit einer offenen, zum Nachdenken anregenden Frage, die ihn dort abholt wo er steht.
 
 ```
+.
+.
+.
+# YouTube Video Analyse-Prompt
+```
+Analysiere das folgende YouTube-Video und erstelle eine kompakte, hochkonzentrierte Zusammenfassung in der beschriebenen Struktur.
+
+## Analysiere das Video und extrahiere:
+
+**Haupterkenntnisse:** Fasse die 3-5 wichtigsten Punkte des Videos in kompakten Fließtext-Abschnitten zusammen. Jeder Abschnitt sollte 2-3 prägnante Sätze enthalten, die das Wesentliche destillieren ohne wichtige Details zu verlieren.
+
+**Bemerkenswerte Entdeckungen:** Hebe die überraschendsten oder faszinierendsten Ergebnisse/Fakten hervor, die im Video präsentiert werden. Bewerte dabei, was besonders erwähnenswert oder unerwartet ist. Formuliere diese als kompakte Erkenntnisse.
+
+**Zentrale Botschaften:** Identifiziere die Kernaussagen, die der Creator vermitteln möchte. Was sind die takeaways, die hängenbleiben sollen? Formuliere diese als durchdachte Schlussfolgerungen.
+
+**Weisheit zum Mitnehmen:** Schließe mit einem selbst formulierten, weisen Spruch ab, der die Essenz des Videos in eine allgemeingültige Lebensweisheit übersetzt. Der Satz soll die Struktur und Tiefe eines chinesischen Sprichworts haben - nicht in der Wortwahl, sondern in der universellen Anwendbarkeit und zeitlosen Wahrheit. Er soll den Leser weiterbringen und zum Nachdenken anregen.
+
+## Stil-Richtlinien:
+- Schreibe in einer lebendigen, aber sachlich fundierten Tonalität
+- Halte jeden Abschnitt kompakt, aber informationsreich
+- Priorisiere Klarheit über Vollständigkeit
+- Bewerte die Relevanz der Informationen für maximale Erkenntnisausbeute
+
+---
+
+*Füge hier den YouTube-Link oder das Transkript ein*
+```
