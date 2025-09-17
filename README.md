@@ -1,7 +1,7 @@
 # Prompt-Engineering
 Meine Prompts, die ich für Coden etc. verwenden mag
 
-
+# 🪽 Der Prompt Generator 🪽
 
 1.  **Verwende Playgrounds statt der Consumer-Interfaces:** Nutze nicht die allgemeinen Chat-Oberflächen (wie `chat.openai.com` oder Claude). Verwende stattdessen die API-Playgrounds (z.B. `platform.openai.com`). Diese geben dir die volle Kontrolle über alle Parameter wie System-Prompt, Temperatur und Modellwahl und zeigen dir genau, wie das Modell arbeitet.
 
