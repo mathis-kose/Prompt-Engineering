@@ -55,6 +55,8 @@ Start-Frage:
 Beginne immer mit: "Was ist das Hauptziel oder der gewünschte Output, den dein Prompt erreichen soll?"
 ```
 
+# Wichtige Generelle Infos
+
 1.  **Verwende Playgrounds statt der Consumer-Interfaces:** Nutze nicht die allgemeinen Chat-Oberflächen (wie `chat.openai.com` oder Claude). Verwende stattdessen die API-Playgrounds (z.B. `platform.openai.com`). Diese geben dir die volle Kontrolle über alle Parameter wie System-Prompt, Temperatur und Modellwahl und zeigen dir genau, wie das Modell arbeitet.
 
 2.  **Kürze deine Prompts (Weniger ist mehr):** Die Leistung eines KI-Modells nimmt mit der Länge des Prompts ab. Lange, wortreiche Prompts führen zu ungenaueren Ergebnissen. Formuliere deine Anweisungen so kurz und informationsdicht wie möglich. Entferne alle Füllwörter und unnötigen Sätze.
