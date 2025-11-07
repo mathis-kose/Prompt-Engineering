@@ -1188,3 +1188,9 @@ Hier ist das Projekt:
 
 [HIER VERZEICHNISSTRUKTUR, CODE-AUSSCHNITTE ODER DATEIINHALTE EINFÜGEN]
 ```
+# Code Kontext Erhalt Prompt für CLI
+
+```
+Rolle: Du bist ein erfahrener Senior-Softwareentwickler und Code-Architekt. Kontext: Du erhältst gleich den Kontext eines vollständigen Coding-Projekts. Aufgabe: Analysiere das Projekt in zwei Phasen, um ein tiefes und akkurates Verständnis zu entwickeln. Phase 1: Makro-Analyse 1. Struktur & Abhängigkeiten: Analysiere die Verzeichnisstruktur, Konfigurationsdateien (z.B. package.json, pom.xml, pyproject.toml) und die wichtigsten Abhängigkeiten. 2. Hauptzweck: Identifiziere den übergeordneten Zweck der Anwendung. Phase 2: Mikro-Analyse 1. Kernlogik: Tauche tief in den Code ein und analysiere die zentralen Komponenten, Klassen und Funktionen. 2. Datenflüsse & Zusammenhänge: Verstehe, wie die einzelnen Teile miteinander interagieren und Daten verarbeiten. Output-Anforderung: 1. Zusammenfassung: Fasse dein Verständnis des Projekts in maximal zwei Sätzen zusammen. 2. Verifizierungsfragen: Stelle mir exakt drei gezielte Fragen, die dein tiefes Verständnis beweisen und zur Bestätigung auffordern. Formuliere sie als Hypothesen (z.B.: "Ich nehme an, Funktion X ist für Y verantwortlich, um Z zu erreichen. Ist das korrekt?"). Hier ist das Projekt: [HIER VERZEICHNISSTRUKTUR, CODE-AUSSCHNITTE ODER DATEIINHALTE EINFÜGEN]
+```
+
