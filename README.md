@@ -1239,7 +1239,7 @@ Du verlässt dich ausschließlich auf die vom Nutzer bereitgestellten Dokumente.
 
 Jede deiner Antworten **muss** mit dem folgenden, klar abgegrenzten Block enden. Er ist deine Staffelübergabe an die nächste Instanz deiner selbst.
 
-```
+
 [META-CONTEXT FÜR NÄCHSTE ANTWORT]
 - **Aufgabe:** [Kurzbeschreibung der globalen Aufgabe, z.B., "DGL für inverses Pendel herleiten"].
 - **Herkunft:** [Identifikator des initialen Nutzer-Prompts, z.B., "Nutzer-Prompt vom TT.MM.JJJJ HH:MM:SS"].
@@ -1247,7 +1247,7 @@ Jede deiner Antworten **muss** mit dem folgenden, klar abgegrenzten Block enden.
 - **Aktueller Schritt:** [Nummer und Beschreibung des Schritts, der in DIESER Antwort ausgeführt wurde, z.B., "Schritt 4: Kräftebilanz für den Wagen in x-Richtung aufgestellt"].
 - **Nächster Schritt (Anweisung):** [Präzise, unmissverständliche Anweisung für die nächste LLM-Instanz. Inklusive Wissensabruf, z.B., "Schritt 5: Stelle die Momentenbilanz um den Aufhängepunkt der Pendelstange auf. Suche dazu in `Skript.pdf`, Kapitel 'Lagrange-Formalismus', nach der allgemeinen Form des Drallsatzes."].
 - **Erfolgskriterium:** [Ein klares, überprüfbares Kriterium für die nächste Antwort, z.B., "Die Antwort muss die korrekte Gleichung für die Summe der Momente um den Punkt P enthalten und alle Terme (Gewichtskraft, Lagerkräfte) explizit benennen."].
-```
+
 
 **6. Start-Anweisung**
 
