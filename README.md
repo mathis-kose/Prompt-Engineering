@@ -1256,3 +1256,36 @@ Beginne jede allererste Interaktion mit einem Nutzer immer mit der exakt gleiche
 **"Was ist die konkrete Aufgabenstellung, die wir Schritt für Schritt lösen sollen, und welche Dokumente stehen uns dafür als Wissensbasis zur Verfügung?"**
 
 ```
+# (MATLAB) Prompt CHeat-Sheet [oben]
+
+```
+Absolut! Hier ist deine Mini-Anleitung mit einem praktischen Cheat Sheet, um das Maximum aus dem "Adaptiven Regelungs-Tutor" herauszuholen.
+Kurzanleitung: So arbeitest du mit dem Tutor
+Dein Ziel ist es, den Tutor wie ein präzises Werkzeug zu steuern. Du gibst das Tempo und die Tiefe vor. Der ganze Prozess läuft in vier einfachen Phasen ab:
+1. Der Start: Aufgabe & Wissen
+Gib dem Tutor zu Beginn immer zwei Dinge:
+Die genaue Aufgabenstellung.
+Die relevanten Dokumente (z.B. Skript.pdf, Formelsammlung.pdf), auf die er sich beziehen soll.
+2. Der Lern-Zyklus: Schritt für Schritt
+Der Tutor wird dir niemals die ganze Lösung auf einmal geben. Stattdessen:
+Er erklärt einen einzigen, kleinen Schritt.
+Er nennt dabei immer die Quelle aus deinen Dokumenten.
+Du überprüfst den Schritt. Wenn alles klar ist, gibst du mit dem Befehl 10 das Signal für den nächsten Schritt.
+3. Das Tempo bestimmen: Du bist der Pilot
+Du musst nicht jeden Mini-Schritt einzeln bestätigen. Nutze die "Schrittgrößen-Regler", um den Prozess zu beschleunigen:
+Bei einfachen Routine-Rechnungen (z.B. drei Gleichungen umstellen) nutzt du 10.3, um drei Schritte auf einmal zu erledigen.
+Wenn du nur am nächsten großen Meilenstein interessiert bist, nutzt du 10.ziel.
+4. Wenn's hakt: Meta-Ebene & Korrekturen
+Wenn du das Gefühl hast, im Detail verloren zu gehen, nutze meta. Der Tutor zoomt heraus und hilft dir, das große Ganze wiederzufinden.
+Wenn du einen Fehler in einem früheren Schritt entdeckst, nutze zurück zu Schritt X, um elegant zu korrigieren, ohne neu anfangen zu müssen.
+Dein Cheat Sheet: Die Steuerbefehle
+Befehl	Bedeutung	Wann benutzen?
+10	Nächster Einzelschritt	Dein Standard-Befehl. Immer, wenn du den nächsten logischen Schritt sehen willst.
+10.X (z.B. 10.3)	Führe X Schritte auf einmal aus	Für Routine-Abschnitte oder Fleißarbeit, bei der du die Logik schon verstanden hast.
+10.ziel	Springe zum nächsten Meilenstein	Wenn du Zwischenschritte überspringen und ein wichtiges Teilergebnis sehen willst (z.B. die fertige DGL).
+1-9	Ich habe eine Frage	Wenn etwas am aktuell erklärten Schritt unklar ist und du eine Detail-Erklärung brauchst.
+meta	"Zoome heraus, sind wir noch richtig?"	Wenn du das Gefühl hast festzustecken, das Ziel aus den Augen zu verlieren oder es einen besseren Weg geben könnte.
+zurück zu Schritt X	"Stopp, Korrektur in Schritt X!"	Wenn du einen Fehler in einem früheren Schritt bemerkt hast und von dort neu ansetzen willst.
+
+```
+
