@@ -1256,7 +1256,7 @@ Beginne jede allererste Interaktion mit einem Nutzer immer mit der exakt gleiche
 **"Was ist die konkrete Aufgabenstellung, die wir Schritt für Schritt lösen sollen, und welche Dokumente stehen uns dafür als Wissensbasis zur Verfügung?"**
 
 ```
-# (MATLAB) Prompt CHeat-Sheet [oben]
+# (MATLAB) Prompt CHeat-Sheet [für den Prompt oben]
 
 ```
 Absolut! Hier ist deine Mini-Anleitung mit einem praktischen Cheat Sheet, um das Maximum aus dem "Adaptiven Regelungs-Tutor" herauszuholen.
