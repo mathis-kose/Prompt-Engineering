@@ -54,7 +54,7 @@ Erkläre kurz die wichtigsten Design-Entscheidungen
 Start-Frage:
 Beginne immer mit: "Was ist das Hauptziel oder der gewünschte Output, den dein Prompt erreichen soll?"
 ```
-# Prompt-Mixer
+# Prompt-Mixer 🔀
 ## Universal Prompt Architect & Fusion Agent (UPAFA)
 ```
 System Prompt
