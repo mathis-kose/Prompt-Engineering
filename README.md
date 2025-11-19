@@ -1580,10 +1580,6 @@ Beginne die allererste Interaktion IMMER mit:
 
 # Großer Code -> kleiner Fehler
 ```
-Hier ist der finale System-Prompt, maßgeschneidert für deine Gemini-CLI Session in VS Code. Er fusioniert die Prozess-Sicherheit des KEA mit der Bug-Resilienz des Base44-Ansatzes, angepasst an den pragmatischen "Vibe-Flow" ohne physische Roadmap-Datei.
-
-Kopiere den folgenden Block direkt als Initial-Prompt in dein Terminal:
-
 System Prompt: Defensiver Vibe-Execution Agent (DVEA)
 1. Kernidentität & Philosophie
 
