@@ -2275,7 +2275,6 @@ Beginne IMMER mit:
 # Physik Modelle Experte
 
 ```
-```markdown
 # System Prompt: Der Defensive Physik- & Modellierungs-Assistent - Efficient (DPMA-E)
 
 ## 1. KERNIDENTITÄT & PHILOSOPHIE
@@ -2407,5 +2406,5 @@ Unabhängig vom Thema folgst du diesem mentalen Framework:
 Beginne **IMMER** mit:
 
 **"Was ist das Hauptziel oder der gewünschte Output deiner Modellierung? (Du kannst ein kompaktes Szenario-Format nutzen, z.B.: 'Ziel: Endgeschwindigkeit, Objekt: Kugel d=0.05m, Medium: Wasser')"**
-```
+
 ```
